@@ -21,7 +21,7 @@ The project was developed as part of an academic engineering thesis and serves a
   - Capacitive proximity electrodes implemented on a custom two-layer FR-4 PCB
 - **Sensors:**
   - CapSense CSD proximity sensors (navigation, confirm, reset)
-- **Power Supply:** USB (3.3 V domain)
+- **Power Supply:** USB (5V domain)
 
 ---
 
