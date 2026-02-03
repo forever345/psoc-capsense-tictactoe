@@ -110,8 +110,13 @@ A working installation is displayed in a public showcase at the Faculty of Elect
 
 ## Media
 
-> Images will be added to illustrate the hardware and LED visualization.
+### Custom CapSense PCB
+Double-sided custom PCB with capacitive proximity electrodes and WS2812 LED matrix.
 
-![Custom PCB with CapSense electrodes](images/pcb_placeholder.jpg)
-![WS2812 LED matrix during gameplay](images/led_matrix_placeholder.jpg)
+![Custom CapSense PCB (top and bottom)](images/custom_capsense_pcb_top_bottom.jpg)
+
+### Final Demo Installation
+Final version of the game presented as a public demonstration system.
+
+![Final tic-tac-toe demo installation](images/final_demo_showcase.jpg)
 
