@@ -1,0 +1,29 @@
+# PSoC Creator generated build output
+Debug/
+Release/
+Generated_Source/
+
+# User- and IDE-specific files
+*.cywrk
+*.cysch.bak
+*.cyprj.bak
+*.cydsn.bak
+*.cycdg.bak
+
+# Temporary and log files
+*.log
+*.tmp
+
+# Toolchain output
+*.o
+*.a
+*.elf
+*.hex
+*.bin
+*.map
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
